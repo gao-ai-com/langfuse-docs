@@ -22,7 +22,7 @@ export default async function JaAcademyPage({ params }: PageProps) {
             href="https://gao-ai.com"
             target="_blank"
             rel="noopener"
-            className="hover:underline"
+            className="underline underline-offset-2 decoration-1 hover:no-underline"
           >
             GAO, Inc.
           </a>
